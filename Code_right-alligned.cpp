@@ -1,6 +1,6 @@
-// UPDESH ARORA
-// PRN - 24070123124
-// ENTC B-3
+//Antriksh Tripathi
+// PRN - 240701231019
+// ENTC A-1
 // EXPERIMENT 06
 
 #include <iostream>
